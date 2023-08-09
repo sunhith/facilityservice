@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.application.facilityservice"
+    },
+    "jhipsterVersion": "6.4.0",
+    "applicationType": "microservice",
+    "baseName": "facilityservice",
+    "packageName": "com.application.facilityservice",
+    "packageFolder": "com/application/facilityservice",
+    "serverPort": "8083",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzRiY2NkMjZhOWRiMWRmNTJiNjU5YmQxOWYwY2M4MWU3NTczZjMzOGVhOTg1Zjc4MDBmYWU4YWM0OTNiOTUxM2Y1ZThhZWZiZGUyMDYyNmM4Y2NlZGM0ZTkyMDc3MzYwNjc2NTM0M2M1OTZkYzMyM2I2ZjNiMjkyNGY1Y2JlYWI=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
