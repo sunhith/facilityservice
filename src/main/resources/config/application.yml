@@ -175,7 +175,7 @@ jhipster:
   mail:
     from: facilityservice@localhost
   swagger:
-    default-include-pattern: /api/.*
+    default-include-pattern: .*
     title: facilityservice API
     description: facilityservice API documentation
     version: 0.0.1
@@ -195,3 +195,5 @@ jhipster:
 # ===================================================================
 
 # application:
+facilityservice:
+  title: facility service
